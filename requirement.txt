@@ -1,0 +1,6 @@
+pandas
+pickle
+sklearn
+tensorflow
+TensorBoard
+numpy
